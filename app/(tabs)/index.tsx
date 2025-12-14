@@ -35,6 +35,7 @@ const CATEGORY_ICONS = {
   'Kodlama': '💻',
   'Proje': '📁',
   'Kitap Okuma': '📖',
+  'Diğer'
 };
 
 export default function HomeScreen() {
