@@ -257,20 +257,6 @@ eas build --platform ios
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request açın
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
-## 📞 İletişim
-
-Proje Sahibi - [İsim]
-Öğrenci No - [Numara]
-
-## 🙏 Teşekkürler
-
-- Expo ekibine harika platform için
-- React Native topluluğuna
-- BSM 447 dersi hocalarına
 
 ---
 
